@@ -1,4 +1,4 @@
-# 🤖 LLM RLHF Evaluation Pipeline
+# 🤖 LLM RLHF(Reinforcement Learning from Human Feedback) Evaluation Pipeline
 
 A production-grade **Java Spring Boot** backend platform that replicates real-world **LLM training workflows** — implementing RLHF annotation, pairwise response ranking, reward score modeling, and SFT dataset construction.
 
