@@ -9,7 +9,7 @@ A production-grade **Java Spring Boot** backend platform that replicates real-wo
 ## 📸 Screenshots
 
 ### Swagger UI — API Overview
-![Swagger UI Overview]([screenshots/swagger-overview.png](https://github.com/user-attachments/assets/8bc1f76a-d929-4b03-a247-efbcc5582944))
+![Swagger UI Overview](https://github.com/user-attachments/assets/8bc1f76a-d929-4b03-a247-efbcc5582944)
 
 ### Register & Login
 ![Auth APIs](screenshots/auth.png)
