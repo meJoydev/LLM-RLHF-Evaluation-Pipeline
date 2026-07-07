@@ -2,7 +2,7 @@
 
 A production-grade **Java Spring Boot** backend platform that replicates real-world **LLM training workflows** — implementing RLHF annotation, pairwise response ranking, reward score modeling, and SFT dataset construction.
 
-> Built to mirror the exact workflows used by AI labs like Anthropic, Google DeepMind, and OpenAI to train and align large language models.
+> Built to learn and explore the core RLHF concepts like pairwise ranking, reward scoring, and SFT dataset curation. Inspired by how labs like Anthropic and OpenAI structure human-feedback pipelines for LLM alignment.
 
 ---
 
@@ -18,7 +18,7 @@ A production-grade **Java Spring Boot** backend platform that replicates real-wo
 ![Evaluation API](https://github.com/user-attachments/assets/b690e5a9-4189-4490-a744-2eec2d186eb9)
 
 ### Pairwise Ranking & Leaderboard
-![Ranking Leaderboard](screenshots/leaderboard.png)
+![Ranking Leaderboard](https://github.com/user-attachments/assets/06b44a8a-3549-41bd-80dd-8340f476e988)
 
 ---
 
