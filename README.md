@@ -1,3 +1,4 @@
+<img width="1240" height="3447" alt="Auth" src="https://github.com/user-attachments/assets/6bf0b01a-5a56-48cd-acff-2e731ba5edff" />
 # 🤖 LLM RLHF(Reinforcement Learning from Human Feedback) Evaluation Pipeline
 
 A production-grade **Java Spring Boot** backend platform that replicates real-world **LLM training workflows** — implementing RLHF annotation, pairwise response ranking, reward score modeling, and SFT dataset construction.
@@ -12,7 +13,7 @@ A production-grade **Java Spring Boot** backend platform that replicates real-wo
 ![Swagger UI Overview](https://github.com/user-attachments/assets/8bc1f76a-d929-4b03-a247-efbcc5582944)
 
 ### Register & Login
-![Auth APIs](screenshots/auth.png)
+![Auth APIs](https://github.com/user-attachments/assets/6bf0b01a-5a56-48cd-acff-2e731ba5edff)
 
 ### 5-Axis Evaluation
 ![Evaluation API](screenshots/evaluation.png)
